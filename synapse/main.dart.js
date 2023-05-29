@@ -99628,7 +99628,7 @@ A.aFf.prototype={
 $1(a){},
 $S:97}
 A.lI.prototype={
-b8(a,b,c){var s,r,q,p,o=null,n="images/synapse-logo-color.svg",m={},l=t.w,k=a.F(l).f.a.a-96
+b8(a,b,c){var s,r,q,p,o=null,n="assets/images/synapse-logo-color.svg",m={},l=t.w,k=a.F(l).f.a.a-96
 m.a=m.b=m.c=null
 s=a.F(l).f.a.a>880?B.C:B.J
 r=a.F(l).f.a.a>880?k/2-80:k
@@ -100705,7 +100705,7 @@ if(!s.G$)s.M()
 return a},
 $S:211}
 A.kI.prototype={
-b8(a1,a2,a3){var s,r,q,p,o,n,m,l=null,k="contactUsName",j="contactUsEmail",i="contactUsMessage",h="Email us: ",g="hello@synapse.com",f=t.w,e=a1.F(f).f.a.a-96,d=a1.F(f).f.a.a>1080?B.C:B.J,c=A.oY("images/contact-us-main.svg",B.c1,480,"My Image",a1.F(f).f.a.a>1080?a1.F(f).f.a.a/4:1/0),b=a1.F(f).f.a.a>1080?e/3:e,a=a1.F(f).f.a.a>1080||a1.F(f).f.a.a<600?A.ZH("Your feedback keeps our synapses firing",B.f):A.ZH("Your feedback keeps\nour synapses firing",B.f),a0=t.p
+b8(a1,a2,a3){var s,r,q,p,o,n,m,l=null,k="contactUsName",j="contactUsEmail",i="contactUsMessage",h="Email us: ",g="hello@synapse.com",f=t.w,e=a1.F(f).f.a.a-96,d=a1.F(f).f.a.a>1080?B.C:B.J,c=A.oY("assets/images/contact-us-main.svg",B.c1,480,"My Image",a1.F(f).f.a.a>1080?a1.F(f).f.a.a/4:1/0),b=a1.F(f).f.a.a>1080?e/3:e,a=a1.F(f).f.a.a>1080||a1.F(f).f.a.a<600?A.ZH("Your feedback keeps our synapses firing",B.f):A.ZH("Your feedback keeps\nour synapses firing",B.f),a0=t.p
 d=A.cO(B.oU,A.b([c,A.ah(l,A.aF(A.b([a,A.ij("We know you're busy providing the best care for your patients. But if you've got a few moments to spare, we'd love to hear your thoughts and suggestions! Drop us a message anytime, and thank you for being an essential part of the synapse community.",l,B.f)],a0),B.m,l,B.l,B.j),B.e,l,l,l,l,l,l,B.I,l,l,b)],a0),B.b3,d,0,0,B.ek)
 c=a1.F(f).f.a.a>1080?B.J:B.C
 b=a1.F(f).f.a.a>1080?64:16
@@ -101328,21 +101328,21 @@ if(!q.G$)q.M()
 return A.z(null,r)}})
 return A.A($async$vD,r)}}
 A.og.prototype={
-b8(a,b,c){var s=null,r=t.w,q=a.F(r).f.a.a-96,p=A.er(s,s,new A.b3(B.c5,t.Il),s,s,s,s,s,s,s,s,s,s,new A.b3(B.I,t.Ni),s,new A.b3(new A.bE($.bZ(),B.r),t.fj),s,s,s,s,s,s),o=a.F(r).f.a.a>920?a.F(r).f.a.b:s,n=a.F(r).f.a.a>920?B.C:B.J,m=a.F(r).f.a.a>920?B.S:B.ek,l=A.oY("images/landing-page-main.svg",B.c1,s,"Step into the synaptastic web of shared knowledge and expertise",a.F(r).f.a.a>920?q/2:q*2/3),k=a.F(r).f.a.a>920?q/2:q,j=A.ZH("Medical referrals made easy",B.bG),i=A.ij("with",s,B.bG),h=A.oY("images/synapse-logo-color.svg",B.c1,68,s,s),g=t.p
+b8(a,b,c){var s=null,r=t.w,q=a.F(r).f.a.a-96,p=A.er(s,s,new A.b3(B.c5,t.Il),s,s,s,s,s,s,s,s,s,s,new A.b3(B.I,t.Ni),s,new A.b3(new A.bE($.bZ(),B.r),t.fj),s,s,s,s,s,s),o=a.F(r).f.a.a>920?a.F(r).f.a.b:s,n=a.F(r).f.a.a>920?B.C:B.J,m=a.F(r).f.a.a>920?B.S:B.ek,l=A.oY("assets/images/landing-page-main.svg",B.c1,s,"Step into the synaptastic web of shared knowledge and expertise",a.F(r).f.a.a>920?q/2:q*2/3),k=a.F(r).f.a.a>920?q/2:q,j=A.ZH("Medical referrals made easy",B.bG),i=A.ij("with",s,B.bG),h=A.oY("assets/images/synapse-logo-color.svg",B.c1,68,s,s),g=t.p
 o=A.at(A.cO(B.a1,A.b([l,A.at(A.aF(A.b([j,i,h,A.iv(new A.az(B.I,A.as("Synapse is designed to help doctors and dentists provide better, more efficient care for patients by providing a platform for them to find and connect with one another at the click of a button.",s,s,B.f),s),s,0,B.I,s,B.c5),new A.az(B.I,A.ah(s,A.dm(!1,A.ae("  Sign up for free  ",s,s,s,s,A.cJ(s,s,B.aj,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.e,s,s,s,s,s,this.d,s,p),B.e,s,s,s,s,48,s,s,s,s,s),s)],g),B.m,s,B.l,B.j),s,k)],g),B.b3,n,0,0,m),o,s)
 m=A.ZH("What we offer",B.f)
 n=a.F(r).f.a.a>920?16:8
 l=a.F(r).f.a.a>920?q/3- -80:q
 l=A.at(new A.Bs("Circle of trust",B.LH,"Your patients entrust you with their wellbeing and you want to do your best for them. Sometimes, this means finding the right specialist provider for part of their care. Synapse gives general practitioners to a wide network of specialists to find the perfect fit for their patient - based on their their condition, insurance coverage or even proximity to home.",s),s,l)
-n=A.cO(B.oV,A.b([l,A.oY("images/landing-page-network.svg",B.c1,s,"More brains are better than one",a.F(r).f.a.a>920?2*q/3+-80:q*2/3)],g),B.b3,B.C,0,n,B.S)
+n=A.cO(B.oV,A.b([l,A.oY("assets/images/landing-page-network.svg",B.c1,s,"More brains are better than one",a.F(r).f.a.a>920?2*q/3+-80:q*2/3)],g),B.b3,B.C,0,n,B.S)
 l=a.F(r).f.a.a>920?16:8
-k=A.oY("images/landing-page-referrals.svg",B.c1,s,"Make connections, foster better care",a.F(r).f.a.a>920?2*q/3+-80:q*2/3)
+k=A.oY("assets/images/landing-page-referrals.svg",B.c1,s,"Make connections, foster better care",a.F(r).f.a.a>920?2*q/3+-80:q*2/3)
 j=a.F(r).f.a.a>920?q/3- -80:q
 l=A.cO(B.oV,A.b([k,A.at(new A.Bs("Ease of Use",B.Lt,"We understand your pain points in the referral process - cumbersome administrative work and processes, ill-designed functionality of platforms, time-consuming menial tasks. Our features include customizable forms which are quick and easy to complete, automated status updates and a chat feature to allow doctors to communicate securely. We aim to provide a seamless experience for both doctors and patients alike.",s),s,j)],g),B.b3,B.C,0,l,B.ek)
 k=a.F(r).f.a.a>920?16:8
 j=a.F(r).f.a.a>920?q/3- -80:q
 j=A.at(new A.Bs("Guided patient journey",B.Ln,"Discuss and coordinate patient care in a confidential manner through secure patient-centric chats. Perform seamless and efficient transition and handoffs between primary and secondary care providers.",s),s,j)
-return A.fg(A.aF(A.b([new A.az(new A.ay(48,16,48,16),o,s),B.an,m,n,l,A.cO(B.oV,A.b([j,A.oY("images/landing-page-journey.svg",B.c1,s,"Stay in sync with your patients on their journey and they'll build a bridge of appreciation beyond words",a.F(r).f.a.a>920?2*q/3+-80:q*2/3)],g),B.b3,B.C,0,k,B.S)],g),B.m,s,B.l,B.j),s,!1,B.J)},
+return A.fg(A.aF(A.b([new A.az(new A.ay(48,16,48,16),o,s),B.an,m,n,l,A.cO(B.oV,A.b([j,A.oY("assets/images/landing-page-journey.svg",B.c1,s,"Stay in sync with your patients on their journey and they'll build a bridge of appreciation beyond words",a.F(r).f.a.a>920?2*q/3+-80:q*2/3)],g),B.b3,B.C,0,k,B.S)],g),B.m,s,B.l,B.j),s,!1,B.J)},
 dk(a){var s=t.S
 return new A.z6(A.o(s,t.y),A.o(s,t.z),!1,!1,!1,$.aS())}}
 A.Bs.prototype={
@@ -102130,7 +102130,7 @@ o=A.a6(204,59,91,169)
 n=A.a6(204,238,238,245)
 m=g.e
 l=m!=null?new A.fr(new A.apY(),f):f
-k=A.oY("images/synapse-logo-appbar.svg",B.c1,f,f,120)
+k=A.oY("assets/images/synapse-logo-appbar.svg",B.c1,f,f,120)
 j=t.p
 i=A.b([A.eC(!1,A.fy(B.a_F,B.bm,f,f,f,f),B.e,f,f,f,f,f,g.r,f,f)],j)
 h=t.w
